@@ -1,10 +1,8 @@
 # MISTERI HILANGNYA RESEP LEGENDA: WARUNG NASI PAK DENGKLEK
 
-======================================================================
-        LAPORAN INSIDEN: MISTERI HILANGNYA RESEP LEGENDA
-                WARUNG NASI PAK DENGKLEK
-======================================================================
-
+LAPORAN INSIDEN: MISTERI HILANGNYA RESEP LEGENDA
+WARUNG NASI PAK DENGKLEK
+                
 Buset dah, asli kacau balau! Pagi ini seisi Warung Nasi Pak Dengklek 
 geger total. Gimana enggak? Pas Pak Dengklek mau ngeracik bumbu subuh-
 subuh tadi, brankas digital tempat nyimpen kertas "Resep Rahasia 
@@ -48,4 +46,3 @@ buat ngebongkar brankas digital itu, dan selametin resepnya sebelum
 jam makan siang dimulai! 
 
 Gua ngandelin lu. Buruan sikat!
-======================================================================
